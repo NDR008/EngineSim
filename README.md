@@ -9,4 +9,4 @@ c) Spark/Combustion ignition based
 The model is a mix between physical and numerical modelling, but delivers a reasonably useful result.
 
 It is missing exchange strokes of the cycle.  
-[Example](example.png)
+![Example](example.png)
